@@ -20,17 +20,17 @@ This report analyzes a loan application dataset to uncover significant trends, p
 ## Loan Application Summary
 **Metric	Value**
 |Total Applications income| 	3,000,000|
-|---Total Loan amount term	205,000|
-|---Total number of rejected loans	192|
-|---Total number of approved loans	422|
+|Total Loan amount term	205,000|
+|Total number of rejected loans	192|
+|Total number of approved loans	422|
 
 .Insight: The overall loan approval rate is moderate, showing that there may be strict criteria affecting approvals.
 
 ## Impact of Credit History on Loan Approval
 |Credit History	Approval Rate|
-|---Good	79.58%|
-|---Poor	7.87%|
-|---No Credit History 	74%|
+|Good	79.58%|
+|Poor	7.87%|
+|No Credit History 	74%|
 
 . Insight: Applicants with strong credit histories are much more likely to have their loans approved than those with poor credit histories, while individuals without any credit history also experience a notable approval rate.
 
@@ -38,21 +38,21 @@ This report analyzes a loan application dataset to uncover significant trends, p
 **Loan Status	Average Applicant Income**
 Yes (Approved)	
 No (Rejected)	
-.Insight: Higher applicant income is positively correlated with loan approval.
+. Insight: Higher applicant income is positively correlated with loan approval.
 
 ## Loan Status by Property Area
 **Property Area	Approval Rate**
 Urban	
 Semi-Urban	
 Rural	
-Insight: Urban and Semi-Urban areas recorded higher approval rates than Rural areas.
+. Insight: Urban and Semi-Urban areas recorded higher approval rates than Rural areas.
 Impact of Dependents on Loan Approval
 No. of Dependents	Approval Rate
 0	
 1	
 2	
 3	
-.Insight: Applicants with fewer dependents tend to have higher loan approval rates.
+. Insight: Applicants with fewer dependents tend to have higher loan approval rates.
 ## Recommendations:
 1.	Direct marketing efforts toward applicants with strong credit histories to boost approval rates.
 
